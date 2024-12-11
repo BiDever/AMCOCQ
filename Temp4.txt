@@ -1,0 +1,255 @@
+automotive electromechanical diagnosis level iv
+
+1. the service time /mileage of a vehicle is indicated by.
+
+a. the speedo meter
+b. the odometer
+c. the tripo meter
+d, tachometer
+
+
+2. a desirable trait that will help the worker to be successful in the job
+
+a. dishonest
+b. insincerely
+c. irresponsible
+d. fallibility
+
+
+3. with out an rpm to the computer on in efl engin
+
+a. the system will go in to back up mode
+b. the engine will not run
+c. the engine will run but it will be sluggish
+d. the engine will start, but run very rich
+
+
+4. which of the following sensor directly measured engine load
+
+a. manifold absolute pressure semor
+b. coolant sensor
+c. throttle position sensor
+d. vehicle speed sensor
+
+
+5. traction control will intervene to maintain stability of the vehicles and the control attractive force can a number of methods as indicated below except
+
+a. transmission control
+b. ignition contral on
+c. brake effect
+d. throttle control
+
+
+6. a number of tracks having different maintenance arrived would you give priory
+if you have a lock of labor force
+
+a. trucka which has 2000 km left for its annual
+service
+b. truck b which has 2000 km left for preventive
+maintenance
+c. truck c which its service time is reached b/n
+unloaded
+d. truck d which is loaded and is service time
+reached
+
+
+
+
+//space here because you should get the question number 7 to 11
+
+
+7. electronic control of automatic gear selection is depends on except
+
+a. engine torque
+b. throttle valve
+c. vehicle speed
+d. none
+
+8. used to diagnosis the vehicle micro processor in
+electronic automobiles
+
+a scanning tool
+b melt meter
+c micrometer
+d dynamo meter
+
+
+9. the technician tests the performance of
+battery on the vehicle, it eads 12.6 voltage in both the right side and left side consider the information what decide the mechanic?
+
+a.open ground electric wire
+b. defective battery
+c. defective electric circuit
+d. normal battery
+
+
+10. the first step of management processes is
+
+a. resource
+b. setting gial
+c. manage time
+d. list the infrastructure
+
+
+11. a technician which is observed in efi engine
+automobile black exhaust smoke in the exhaust system that identifies a rich mixtures. but there is no any information to the engine computer so the vehicle power is becomes reduces. the technician decides
+
+a. throttle valve defective
+b. coolant temperature sensor over heat
+c. knock sensor
+d. dead of oxygen sensor
+
+
+12. which one is common feature of both automatic and manual gear transmissions
+
+a. hand brake
+b. lift lever
+c. torque convertor
+d. clutch
+
+
+13.quality standard included the following except
+
+a. ambiguous
+b. efficient
+c. exclusive
+d. ambitions
+
+
+14. which of the following is convenience system on vehicle?
+
+a. anti-lock brake
+b. steering column adjustment
+c. traction control
+d. air conditioning
+
+
+15.a diagnostic instrument desired to communicate with vehicle computer
+
+a. multimeter
+b. hydrometer
+c. scan tool
+d. dynamometer
+
+
+16. the correct diagnosis order electronic controlled vehicle service?
+
+a. conduct inspection prepare vehicle get guidance test
+performance
+b. prepare vehicle conduct inspection get guidance test
+performance
+c. test performance prepare vehicle conduct inspection
+get guidance
+d. prepare vehicle get conduct inspection test
+performance
+
+
+17. when testing rear window defogger grid with
+voltmeter?
+
+a. the voltmeter should be decrease voltage at the grid
+in tested across the glass
+b. the voltage will indicate a pulsing 5 volt signal
+home
+c. the voltmeter should read battery voltage only 
+d. only an ammeter is used a read of lamp
+
+
+18. mass air flow meter are second pcm of engine control is impeller?
+
+a. voltmeter of engine
+b. air density and voltmeter
+c. how test air flow
+d. humidity
+
+19. standing unity of oil pressure warning light is
+
+a. variable resistor
+b. normal closed switch
+c. thermistor
+d. normally open switch
+
+
+//get question number 26 to 31
+
+20. being a supervisor ora manager makes you
+responsible to some extent of the work and being in such a position you should possess personal qualities that can help you work with others in the work place as stated below but one is not and name it
+
+a. display high standard of attendance, honesty and optimism
+b. do quality work
+c. being fault finder
+progresses
+d. work hard to reach the goal and monitor your
+
+
+21. technical information except;
+
+a. organizational quality standard
+b. personal skill
+c. manufacture specification
+d. industry standard
+
+22. all of the following can cause wind shield wipers to fail to stop (they keep running) in the "park position"
+
+a. a defective wiper switch
+after the wiper switch has been turned off 
+b. an open park circuit
+c. warn wiper motor brushes
+d. adefective wiper park contact switch
+
+
+23. which of the following sensors indirectly measures engine load?
+
+a.coolant sensor
+b. throttle position sensor
+c. manifold absolute pressure sensor
+d. vehicle speed sensor
+
+
+24. which of the following elaborate the concept of new technology appropriately
+
+a. utilize the existing system
+b. solving the problem the societies
+c. increasing cost consumption
+d. increasing human effort
+
+//get question number 37
+
+
+25. service quality can be related to service potential "'service potential" represents.
+
+a.quickness of work
+b. workers qualification
+c. customer satisfaction
+d. service result
+
+
+26. when we use scan tool it must be programmed for" except
+
+a. type of engine
+b. model year of vehicle
+c. make of vehicle
+d.number of cylinder
+
+
+27. a customer comes in for 30,000 mile service while completing the service. the technician notes that the vehicle will soon need the front brake pads replaced which of those is the best way to addresses this need with the customers.
+
+a. input the technicians comments in the dealer ships database for review at the next service
+b. call the customer and offer to complete the
+repair explaining why it is needed
+c. not the technicians on the customers repair order
+
+28. technician a says that 3 brushes wiper motors allow the motor in the forward and
+reverse direction for hidden wipers. technician b says the 3 brushes are used to provide high/low speed control who is correct?
+
+a. both technician a & b
+b. technician a only
+c. technician b only
+d. neither technician a nor b
+
+29. a programmed maintenance which is carried out before the occurrence of failure or to detect failure be for they develop to a brake down is reformed as
+
+a. preventive maintenance
+b. corrective nmaintenance
+b. improvement maintenance
+d. condition based mainnance
