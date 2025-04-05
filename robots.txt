@@ -1,6 +1,4 @@
 User-agent: *
-
-Disallow: 
-# This line, with no specified directories, means allow all pages to be crawled.
-
+﻿User-agent: Googlebot Allow: /sitemap.xml 
+User-agent: * Allow: / 
 Sitemap: https://autococlevel4.netlify.app/sitemap.xml
