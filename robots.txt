@@ -1,4 +1,2 @@
-User-agent: *
 ﻿User-agent: Googlebot Allow: /sitemap.xml 
 User-agent: * Allow: / 
-Sitemap: https://autococlevel4.netlify.app/sitemap.xml
