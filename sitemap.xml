@@ -9,43 +9,48 @@
 
 <url>
   <loc>https://autococlevel4.netlify.app/</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/about</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/privacy%20policy.html</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
-  <priority>0.60</priority>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/coc1</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/coc2</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/coc3</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/coc4</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://autococlevel4.netlify.app/htm/test</loc>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://autococlevel4.netlify.app/htm/contact</loc>
-  <lastmod>2025-04-05T01:20:12+00:00</lastmod>
-  <priority>0.70</priority>
+  <lastmod>2025-08-14T13:15:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
