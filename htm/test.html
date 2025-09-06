@@ -14,15 +14,15 @@
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "Free AI Tools Hub",
-            "url": "https://free-ai-tools-hub.netlify.app/",
+            "name": "Auto COC Quiz",
+            "url": "https://autococlevel4.netlify.app/htm/test.html",
             "potentialAction": {
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "https://free-ai-tools-hub.netlify.app/search?q={search_term_string}"
+                    "urlTemplate": "https://autococlevel4.netlify.app/search?q={search_term_string}"
                 },
-                "query-input": "Free Ai Tools Hub=search_term_string"
+                "query-input": "auto coc quiz=search_term_string"
             }
         }
     </script>
@@ -32,38 +32,33 @@
     </title>
     
     
-    <meta name="description" content="Discover a comprehensive list of free AI tools for video editing, chat, image generation, writing assistance, and audio creation. Find the best AI resources to boost your creativity and productivity without cost.">
+<meta name="description" content="Prepare for the Automotive COC test with our comprehensive online quiz. Our platform provides multiple-choice questions, correct answers, and detailed explanations to help you pass your exam in Ethiopia.">
 
-    <meta name="keywords" content="free AI tools, AI tools list, AI video tools, AI chat tools, AI image generators, AI writing tools, AI audio tools, generative AI, AI resources, artificial intelligence tools, free AI software, AI productivity, AI content creation, AI video editor, AI chatbot, AI art generator, AI writer, AI voice generator">
+<meta name="keywords" content="Automotive COC, COC test, COC quiz, Automotive Level 4, automotive exam, Ethiopia, test questions, practice test, answers, explanations, vehicle maintenance, car test, free online quiz">
 
-    <meta name="author" content="Biniam">
+<meta name="author" content="Biniam">
 
-    <meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow">
 
-    <meta property="og:title" content="Free AI Tools Hub: Video, Chat, Image, Writing, Audio AI Solutions">
+<meta property="og:title" content="Automotive COC Test: Questions, Answers & Explanations">
 
-    <meta property="og:description" content="Unlock your potential with our curated directory of free Artificial Intelligence tools. Find AI solutions for video editing, image generation, creative writing, interactive chat, and audio production, all at no cost.">
+<meta property="og:description" content="Ace your Automotive COC exam with our free practice quiz. Get instant access to questions, detailed answers, and expert explanations to help you succeed.">
 
-    <meta property="og:type" content="website">
+<meta property="og:type" content="website">
 
-    <meta property="og:url" content="https://free-ai-tools-hub.netlify.app/">
+<meta property="og:url" content="https://autococlevel4.netlify.app/htm/test.html">
 
-    <meta property="og:image" content="https://free-ai-tools-hub.netlify.app/preview.png">
-    <!-- Ensure you create a compelling image at this URL for social media previews -->
+<meta property="og:image" content="https://autococlevel4.netlify.app/preview.png">
+<meta property="og:site_name" content="Automotive COC Quiz">
 
-    <meta property="og:site_name" content="Free AI Tools Hub">
+<meta name="twitter:card" content="summary_large_image">
 
-    <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Automotive COC Test: Questions, Answers & Explanations">
 
-    <meta name="twitter:title" content="Free AI Tools Hub: Video, Chat, Image, Writing, Audio AI Solutions">
+<meta name="twitter:description" content="Ace your Automotive COC exam with our free practice quiz. Get instant access to questions, detailed answers, and expert explanations to help you succeed.">
 
-    <meta name="twitter:description" content="Unlock your potential with our curated directory of free Artificial Intelligence tools. Find AI solutions for video editing, image generation, creative writing, interactive chat, and audio production, all at no cost.">
-    
-    <meta name="twitter:image" content="https://free-ai-tools-hub.netlify.app/preview.png">
-    <!-- Ensure you create a compelling image at this URL for Twitter previews -->
-
-    <link rel="canonical" href="https://free-ai-tools-hub.netlify.app/">
-
+<meta name="twitter:image" content="https://autococlevel4.netlify.app/preview.png">
+<link rel="canonical" href="https://autococlevel4.netlify.app/htm/test.html">
   
 
 
@@ -510,16 +505,25 @@
             
         }
         
-        exitQuizBtn.addEventListener('click', function() {
+       /* exitQuizBtn.addEventListener('click', function() {
             
             finishingQuizWarning();
          
-        });
+        });*/
         
 
         //running The Script After Web Page
         document.addEventListener('DOMContentLoaded', function() {
             displayQuestion(currentQuestionIndex);
+
+    // Now add the exitQuizBtn listener here as well
+    const exitQuizBtn = document.getElementById('quite-quiz-btn');
+    if (exitQuizBtn) { // The 'if' check is a good practice
+        exitQuizBtn.addEventListener('click', function() {
+            finishingQuizWarning();
+        });
+    }
+            
         });
 
 
