@@ -15,27 +15,31 @@
 <body>
     <a href="htpst://autococlevel4.netlify.app/htm/tutorials.html" style="color: #27ae60; text-decoration: none;">← Back to Tutorials</a>
     
-    <h1>Advanced Multimeter Diagnosis for Level 4 Students</h1>
+<h1>Advanced Sensor Diagnosis: CKP, CMP, and MAF</h1>
     
-    <p>In automotive electromechanical diagnosis, the digital multimeter (DMM) is your most powerful weapon. At Level 4, we move beyond simple continuity checks and focus on <strong>Voltage Drop Testing</strong>.</p>
+    <p>Sensors are the eyes and ears of the Engine Control Unit (ECU). For a Level 4 Electromechanical technician, understanding the internal circuitry of these sensors is vital. We do not just "swap" sensors; we test their signals to prove they are faulty. This guide focuses on the three most critical sensors in modern fuel injection systems.</p>
 
-    <h2>Why Voltage Drop Testing Matters</h2>
-    <p>A circuit might show 12 volts at rest, but fail under load. High resistance caused by corrosion or loose ground wires is the #1 cause of "ghost" electrical problems. This guide covers how to identify these issues without removing components.</p>
+    <h2>1. Crankshaft Position Sensor (CKP) Diagnosis</h2>
+    <p>The CKP is the most important sensor; without its signal, the engine will not start. There are two main types: Inductive (2 wires) and Hall-Effect (3 wires). 
+    <ul>
+        <li><strong>Inductive:</strong> Produces its own AC voltage. Test with a multimeter set to AC Volts while cranking. You should see a pulsing voltage.</li>
+        <li><strong>Hall-Effect:</strong> Requires a 5V or 12V power source. It produces a digital "On/Off" signal. You must test for Power, Ground, and a Signal Pulse.</li>
+    </ul></p>
 
     <div class="highlight-box">
-        <strong>Pro Tip:</strong> Always test the circuit while it is "Live" and "Loaded" to get an accurate reading.
+        <strong>Diagnostic Tip:</strong> If the engine has a "Misfire" but only at high RPM, check the CKP air gap. If the sensor is too far from the reluctor wheel, the signal becomes too weak at high speeds.
     </div>
 
-    <h2>Step-by-Step: Testing a Starter Motor Circuit</h2>
-    <p><span class="step">Step 1:</span> Set your DMM to DC Volts (20V range).</p>
-    <p><span class="step">Step 2:</span> Place the red lead on the positive battery post and the black lead on the starter solenoid input.</p>
-    <p><span class="step">Step 3:</span> Crank the engine. A reading higher than 0.5V indicates excessive resistance in the cable.</p>
+    <h2>2. Mass Air Flow (MAF) Sensor Troubleshooting</h2>
+    <p>The MAF measures the density of air entering the engine. Most modern MAF sensors are "Hot Wire" types. The ECU keeps a tiny wire at a specific temperature; as air flows over it, it cools the wire. The current required to keep that wire hot is translated into a voltage signal.</p>
+    <p>Common symptoms of a dirty MAF include "Lean" codes (P0171) and hesitation during acceleration. Before replacing a MAF, always check for "False Air" or vacuum leaks between the sensor and the throttle body.</p>
 
-    <h2>Common Pitfalls in Electrical Diagnosis</h2>
-    <p>Many students confuse "Open Circuits" with "High Resistance." An open circuit stops all current flow, while high resistance simply limits it, causing components like fuel pumps or blowers to run slowly or erratically.</p>
+    <h2>3. Camshaft Position Sensor (CMP) and Correlation</h2>
+    <p>The CMP tells the ECU which cylinder is on the compression stroke. At Level 4, we perform **CKP-CMP Correlation** tests. Even if both sensors are "good," if the timing belt has jumped a tooth, the signals won't match. The ECU will throw a correlation code. Use your knowledge of engine timing to verify that the mechanical components are aligned before blaming the electromechanical sensors.</p>
 
-    <p>Mastering these readings is essential for passing the Level 4 COC practical assessment in Ethiopia.</p>
-
+    <h2>Conclusion: The Scientific Method</h2>
+    <p>To succeed in the COC Level 4 exam, always follow the "Input-Process-Output" logic. The sensor is the Input. If the Input is wrong, the Output (Fuel Injection/Spark) will be wrong. Verify your Inputs first using your multimeter and diagnostic logic, and you will find the root cause of any automotive failure.</p>
+    
     <footer style="margin-top: 50px; border-top: 1px solid #eee; padding-top: 20px;">
         <p>Published by BrightWeb Studio | Educational Series 01</p>
     </footer>
