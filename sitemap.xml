@@ -52,6 +52,27 @@
   <lastmod>2025-08-14T13:15:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+    <loc>https://autococlevel4.netlify.app/htm/tutorials.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://autococlevel4.netlify.app/htm/tutorial/guide-multimeter.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://autococlevel4.netlify.app/htm/tutorial/guide-canbus.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://autococlevel4.netlify.app/htm/tutorial/guide-sensors.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+
 
 
 
